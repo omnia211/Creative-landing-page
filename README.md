@@ -1,6 +1,7 @@
 Creating a website for iPhones, where clicking on any phone changes the entire design.
 
 Tech Stack :
+
 .HTML
 .CSS
 .JavaScript
