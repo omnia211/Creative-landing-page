@@ -1,15 +1,11 @@
 Creating a website for iPhones, where clicking on any phone changes the entire design.
 
 Tech Stack :
-
-HTML
-
-CSS
-
-JavaScript
+.HTML
+.CSS
+.JavaScript
 
 
-![Screenshot 2025-01-16 222830](https://github.com/user-attachments/assets/e824a6e9-73c9-4825-ace4-22f0d01323f5)
 ![Screenshot 2025-01-16 222105](https://github.com/user-attachments/assets/1cfc4325-b7b5-4b7d-9e0f-b7209a097834)
 ![Screenshot 2025-01-16 222830](https://github.com/user-attachments/assets/e824a6e9-73c9-4825-ace4-22f0d01323f5)
 ![Screenshot 2025-01-16 222123](https://github.com/user-attachments/assets/b63144c5-043b-428e-9a99-8ce7afed1926)
